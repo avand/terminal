@@ -1,0 +1,6 @@
+source ~/.airlab/shellhelper.sh
+
+# afdev
+export DATA_DIR=$HOME/airlab/repos/data
+export AFDEV_HOST="i-02b9e772260e9adb6.inst.aws.airbnb.com"
+export AFDEV_PORT=62834
